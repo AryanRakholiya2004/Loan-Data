@@ -83,7 +83,5 @@ Through compelling visualizations, this project answers important business quest
 
 This project is a strong demonstration of my ability to extract insights from raw data, clean and visualize it meaningfully, and tell a compelling story using Python. It also showcases my proficiency in exploratory data analysis with a focus on business logic and stakeholder value.
 
-## 🔗 Jupyter Notebook
-
-<a href="https://github.com/AryanRakholiya2004/Loan-Data/blob/main/loan_dataset_analysis.ipynb">Loan Data</a>
+## 🔗 <a href="https://github.com/AryanRakholiya2004/Loan-Data/blob/main/loan_dataset_analysis.ipynb">Jupyter notebook</a>
 
